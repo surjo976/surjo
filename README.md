@@ -1,9 +1,7 @@
-[![][logo]][website-url]
-[logo](https://github.com/surjo976/videosoft/assets/82593116/2da0bbf6-f3fc-43f8-8f50-8592ac9b3155)
-[website-url]https://tonmaysen.xyz
+![logo](https://github.com/surjo976/videosoft/assets/82593116/2da0bbf6-f3fc-43f8-8f50-8592ac9b3155)
 <h1 align="center">Hi 👋, I'm Tonmay Sen</h1>
 <h3 align="center">A passionate Mobile application developer from Bangladesh</h3>
-<img align="right"alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<!-- <img align="right"alt="coding" width="400" src="https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif"> -->
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surjo976&label=Profile%20views&color=0e75b6&style=flat" alt="surjo976" /> </p>
