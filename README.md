@@ -1,4 +1,4 @@
-![Screenshot_1](https://github.com/surjo976/videosoft/assets/82593116/2da0bbf6-f3fc-43f8-8f50-8592ac9b3155)
+![logo](https://github.com/surjo976/videosoft/assets/82593116/2da0bbf6-f3fc-43f8-8f50-8592ac9b3155)
 
 # 💫 About Me:
 🔭 I’m currently Studying Computer Science Engineering at Msc 1st year in Khulna University<br>🔭 I’m currently working on Appstick<br><br>
